@@ -6,7 +6,7 @@ A clean, responsive task manager built with vanilla JavaScript, HTML5, and CSS3.
 
 ![Preview](screenshot.png)
 
-🔗 **Live Demo:** [your-username.github.io/todo-app](https://your-username.github.io/todo-app)
+🔗 **Live Demo:** [Mayankrajbhargit.github.io/todo-app](https://Mayankrajbhargit.github.io/todo-app)
 
 ## ✨ Features
 
@@ -65,4 +65,4 @@ Distributed under the MIT License.
 ## 👤 Author
 
 **Your Name**
-GitHub: [@your-username](https://github.com/your-username)
+GitHub: [@your-username](https://github.com/Mayankrajbhargit)
